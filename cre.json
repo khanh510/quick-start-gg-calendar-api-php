@@ -1,0 +1,12 @@
+{
+    "web":
+    {
+        "client_id": "797870318903-9uomhvbqi27m9ondep2146m4dehfdg5h.apps.googleusercontent.com",
+        "project_id": "rosy-cooler-319609",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "u_83dF1JZG2nizW_Nuplps0I",
+        "redirect_uris": ["https://127.0.0.1/calendar2/response_code.php"]
+    }
+}
