@@ -35,7 +35,6 @@ if( !file_exists($tokenPath) ){
 	$events = $results->getItems();
 	echo "<pre>";
 	echo json_encode($events);
-	print_r($service);
 	echo "</pre>";
 
 }
