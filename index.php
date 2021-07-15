@@ -37,7 +37,7 @@ if( !file_exists($tokenPath) ){
 	}else{
 		$date = date("Y-m-d",strtotime("this week"));
 	 	$start = date("c", strtotime("-1 day",strtotime($date)) );
-	 	$end = date("c", strtotime("+6 days",strtotime($date)) );
+	 	$end = date("c", strtotime("+5 days",strtotime($date)) );
 	}
 	
 
